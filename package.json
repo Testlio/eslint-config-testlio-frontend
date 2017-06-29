@@ -1,0 +1,14 @@
+{
+  "name": "@testlio/eslint-config-testlio-frontend",
+  "version": "0.0.1",
+  "description": "Shared config to be used across all react-based apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=3"
+  }
+}
