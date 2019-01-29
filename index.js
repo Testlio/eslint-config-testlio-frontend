@@ -95,6 +95,7 @@ module.exports = {
         ],
         "no-irregular-whitespace": "error",
         "no-mixed-requires": "error",
+        "no-multiple-empty-lines": [2, {"max": 1}],
         "prefer-const": "warn",
         "prefer-template": "warn",
         "prefer-spread": "warn",
