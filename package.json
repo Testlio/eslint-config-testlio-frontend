@@ -1,6 +1,6 @@
 {
   "name": "@testlio/eslint-config-testlio-frontend",
-  "version": "0.0.1",
+  "version": "0.0.2-BLUE-2304.0",
   "description": "Shared config to be used across all react-based apps",
   "main": "index.js",
   "scripts": {
