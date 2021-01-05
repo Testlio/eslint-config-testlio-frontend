@@ -149,7 +149,15 @@ module.exports = {
         "import/extensions": "error",
         "import/order": ["error", { "groups": ["external", "internal"] }],
         "import/newline-after-import": "error",
-        "import/no-unassigned-import": "error"
+        "import/no-unassigned-import": "error",
+
+        "@typescript-eslint/ban-types": "error",
+        "@typescript-eslint/consistent-type-assertions": "error",
+        "@typescript-eslint/explicit-function-return-type": ["error", {
+            "allowExpressions": true
+        }],
+        "@typescript-eslint/no-empty-interface": "error",
+        "@typescript-eslint/type-annotation-spacing": "error"
     }
 }
 
