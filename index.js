@@ -157,6 +157,7 @@ module.exports = {
             "allowExpressions": true
         }],
         "@typescript-eslint/no-empty-interface": "error",
-        "@typescript-eslint/type-annotation-spacing": "error"
+        "@typescript-eslint/type-annotation-spacing": "error",
+        "@typescript-eslint/no-unused-vars": "error"
     }
 }
